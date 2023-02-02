@@ -1,2 +1,0 @@
-# Actividad1_SistemasInteractivos
- 
